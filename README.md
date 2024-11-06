@@ -31,7 +31,7 @@ The React Props Contact Cards App showcases how to use React props to create a r
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/jbolan12/React-Props.git
 
 
 ## Navigate to the project directory:
